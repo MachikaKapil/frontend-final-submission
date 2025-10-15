@@ -7,7 +7,7 @@
 
 /* Form background with slight transparency */
 .login-form {
-  background-image:linear-gradient(135deg, #8b5cf6, #ec4899, #f43f5e) ;
+  background-image:radial-gradient(135deg, #8b5cf6, #ec4899, #f43f5e) ;
   max-width: 400px;
   width: 100%;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
