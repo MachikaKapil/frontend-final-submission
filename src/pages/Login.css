@@ -1,7 +1,7 @@
 /* Full page background gradient */
 .login-container {
   min-height: 100vh;
-  background: radial-gradient(lightblue,lightpink,white);
+  background: radial-gradient(yellow,lightpink,white);
   padding: 20px;
 }
 
