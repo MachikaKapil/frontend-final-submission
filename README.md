@@ -116,13 +116,13 @@ DELETE /api/tasks/:id – Delete a task
 
 ✅ Author
 
-Name: Karthan Venkatesh
+Name: Machika Kapil
 
 Role: Frontend Developer Intern
 
-Email: karthanvenkateshvenkatesh@gmail.com
+Email: machikakapil@gmail.com
 
-GitHub: https://github.com/venkatesh5650/
+GitHub: https://github.com/MachikaKapil/
 
 📚 References
 
